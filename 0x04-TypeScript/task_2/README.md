@@ -288,4 +288,3 @@ Director
 console.log(createEmployee('$500'));
 Director
 ```
-
